@@ -2,9 +2,9 @@
 <h3 align="center">Full-stack developer</h3>
 <br>
 
-- 🔭 I’m currently working on [One Degree Design](http://www.onedegreedesign.com/) and Campanazzo
+- 🔭 I’m currently studying at [</salt>](https://www.salt.dev/) 
 
-- 🌱 I’m also learning **React**
+- 🌱 There I am learning .NET, #, CSS (BEM and SMACCS), TypeScript and React
 
 - 📫 Get in touch: **lucsiat@gmail.com**
 
