@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 <br>
 
-- 🔭 I’m currently studying at </salt> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
+- 🔭 I’m currently studying at \</salt\> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
 
 - 🌱 There I am learning .NET, #, CSS (BEM and SMACCS), TypeScript and React
 
