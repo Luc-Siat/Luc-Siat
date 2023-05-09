@@ -7,8 +7,8 @@
 - 🌱 There I am using .NET, #, CSS (BEM and SMACCS), TypeScript and React
 
 - Have a look at my last project:
-  - two weeks mob project : [https://orange-pond-040622003.2.azurestaticapps.net](Cup Of Tickets)
-  - 24hours hackday : [https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs](Massor av Masar)
+  - two weeks mob project Cup of Tickets : [https://orange-pond-040622003.2.azurestaticapps.net](Cup Of Tickets](https://orange-pond-040622003.2.azurestaticapps.net)
+  - 24hours hackday Massor av Masar : [https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs]([Massor av Masar](https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs))
 
 - 📫 Get in touch: **lucsiat@gmail.com**
 
