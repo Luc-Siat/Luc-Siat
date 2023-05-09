@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luc Siat!</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full-stack .NET developer</h3>
 <br>
 
 - 🔭 I’m currently a FullStack Consultant at \</salt\> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
 
 - 🌱 There I am using .NET, #, CSS (BEM and SMACCS), TypeScript and React
+
+- Have a look at my last project:
+  - two weeks mob project : [https://orange-pond-040622003.2.azurestaticapps.net/](Cup Of Tickets)
+  - 24hours hackday : [https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs](Massor av Masar)
 
 - 📫 Get in touch: **lucsiat@gmail.com**
 
