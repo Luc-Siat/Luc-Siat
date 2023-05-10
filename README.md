@@ -6,7 +6,7 @@
 
 - 🌱 There I am using .NET, #, CSS (BEM and SMACCS), TypeScript, React and Azure
 
-- Have a look at my last projects:
+- 📓 Have a look at my last projects:
   - Two weeks mob project: <strong>Cup of Tickets</strong> [https://orange-pond-040622003.2.azurestaticapps.net](https://orange-pond-040622003.2.azurestaticapps.net)
   - 24 hours solo hackday: <strong>Massor av Masar</strong> [https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs](https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs)
 
