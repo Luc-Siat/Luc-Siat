@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luc Siat!</h1>
-<h3 align="center">Full-stack .NET developer</h3>
+<h3 align="center">Full-stack .NET developer</h3> 
 <br>
 
 - 🔭 I’m currently a FullStack Consultant at \</salt\> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
@@ -13,12 +13,14 @@
 - 📫 Get in touch: **lucsiat@gmail.com**
 
 
+[![Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc-Siat)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/luc-siat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jlinkedin link picture" height="30" width="40" /></a>
 </p>
-<h3 align="left">Tech stack</h3>
 
+<h3 align="left">Tech stack</h3>
 
 <p align="left"> 
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="c#" width="40" height="40"/> </a>
@@ -35,3 +37,5 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  </p>
+ 
+
