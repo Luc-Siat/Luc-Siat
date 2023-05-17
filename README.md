@@ -15,9 +15,9 @@
 
 
 
-![Luc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Luc-Siat&show_icons=true&theme=gruvbox)
+<span> ![Luc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Luc-Siat&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-Siat&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) </span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-Siat&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 
