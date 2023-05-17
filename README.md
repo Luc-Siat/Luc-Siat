@@ -15,7 +15,7 @@
 
 
 
-[![Luc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc-Siat)](https://github.com/anuraghazra/github-readme-stats)
+![Luc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Luc-Siat&show_icons=true&theme=gruvbox)
 
 <h3 align="left">Connect with me:</h3>
 
