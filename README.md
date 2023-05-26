@@ -8,8 +8,9 @@
 - 🌱 There I am using .NET, #, CSS (BEM and SMACCS), TypeScript, React and Azure
 
 - 📓 Have a look at my last projects:
-  - Two weeks mob project: <strong>Cup of Tickets</strong> [https://orange-pond-040622003.2.azurestaticapps.net](https://orange-pond-040622003.2.azurestaticapps.net)
-  - 24 hours solo hackday: <strong>Massor av Masar</strong> [https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs](https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs)
+  - In progress pair programming project: [MOCKEA](https:https://agreeable-field-0b3b0bc03.3.azurestaticapps.net/) 
+  - Two weeks mob project: [Cup Of Tickets](https://orange-pond-040622003.2.azurestaticapps.net)
+  - 24 hours solo hackday: [Massor Av Masar](https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs)
 
 - 📫 Get in touch: **lucsiat@gmail.com**
 
