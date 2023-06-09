@@ -8,7 +8,8 @@
 - 🌱 There I am using .NET, #, CSS (Tailwind or BEM), TypeScript, React and Azure
 
 - 📓 Have a look at my last projects:
-  - In progress pair programming project: [MOCKEA](https:https://agreeable-field-0b3b0bc03.3.azurestaticapps.net/) 
+  - In progress pair programming project [DealFortress](https://github.com/DealFortress)  
+  - Paused pair programming project: [MOCKEA](https:https://agreeable-field-0b3b0bc03.3.azurestaticapps.net/) 
   - Two weeks mob project: [Cup Of Tickets](https://orange-pond-040622003.2.azurestaticapps.net), read the [readme](https://github.com/cup-of-T/cup-of-Tickets#readme) first!
   - 24 hours solo hackday: [Massor Av Masar](https://red-bay-0e82f7003.2.azurestaticapps.net/Dogs)
 
