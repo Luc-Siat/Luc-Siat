@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a FullStack Consultant available for hire at \</salt\> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
 
-- 🌱 There I am using .NET, #, CSS (Tailwind or BEM), TypeScript, React and Azure
+- 🌱 There I am using .NET, C#, TypeScript, Vite, CSS (Tailwind or BEM) and Azure Cloud Service
 
 - 📓 Have a look at my last projects:
   - In progress pair programming project [DealFortress](https://github.com/DealFortress/DealFortress)  
