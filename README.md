@@ -3,7 +3,7 @@
 <br>
 
 
-- 🔭 I’m currently a FullStack Consultant available for hire at \</salt\> [https://www.salt.dev/](https://www.salt.dev/sv-SE) 
+- 🔭 I’m currently a working on the DealFortress platform but do not hesitate to contact me for any work opportunity!
 
 - 🌱 There I am using .NET, C#, TypeScript, Angular, Vite, CSS (Tailwind or BEM) and Azure Cloud Service
 
